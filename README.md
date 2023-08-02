@@ -13,5 +13,6 @@
 ![dice game flowchart](https://github.com/Ayman-Sedik/Dice-Game/assets/87248906/848ab402-2db7-4d87-930c-adb30c10c22f)
 
 ## Demo
-https://github.com/Ayman-Sedik/Dice-Game/assets/87248906/3f16fa82-c0b9-4a57-bd11-7a1f0e276bd5
+https://github.com/Ayman-Sedik/Dice-Game/assets/87248906/a6cb42b0-2019-4770-9479-5541da159b09
+
 
