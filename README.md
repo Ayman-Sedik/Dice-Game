@@ -10,7 +10,8 @@
 <br>Players take turns swapping rolls after each round, and keeping track of how much they've banked, aiming to be the first person to reach your chosen target number.</br>
 
 ## Dice Game Flowchart
-![dice game flowchart](https://github.com/Ayman-Sedik/Dice-Game/assets/87248906/848ab402-2db7-4d87-930c-adb30c10c22f)
+![dice-game-flowchart](https://github.com/Ayman-Sedik/Dice-Game/assets/87248906/f27acf52-264e-4ab6-a676-9c8bbcd631de)
+
 
 ## Demo
 https://github.com/Ayman-Sedik/Dice-Game/assets/87248906/a6cb42b0-2019-4770-9479-5541da159b09
